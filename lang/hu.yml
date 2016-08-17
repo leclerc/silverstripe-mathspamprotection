@@ -1,0 +1,25 @@
+hu:
+  MathSpamProtection:
+    EIGHT: nyolc
+    EIGHTEEN: tizennyolc
+    ELEVEN: tizenegy
+    FIFTEEN: tizenöt
+    FIVE: öt
+    FOUR: négy
+    FOURTEEN: tizennégy
+    NINE: kilenc
+    ONE: egy
+    SEVEN: hét
+    SEVENTEEN: tizenhét
+    SIX: hat
+    SIXTEEN: tizenhat
+    TEN: tíz
+    THIRTEEN: tizenhárom
+    THREE: három
+    TWELVE: tizenkettő
+    TWO: kettő
+    WHATIS: 'mennyi %s plussz %s?'
+    ZERO: nulla
+  MathSpamProtectionField:
+    INCORRECTSOLUTION: 'Hibás válasz, kérjük próbálja meg ismét.'
+SPAMQUESTION: 'Ellenőrző kérdés: %s'
